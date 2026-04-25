@@ -2,7 +2,117 @@
 
 [![AtulOS Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:00b4d8,100:00e5ff&height=200&section=header&text=ATUL%20%2F%2F%20SYSTEMS%20ARCHITECT&fontSize=36&fontColor=00e5ff&fontAlignY=38&desc=Firmware%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20OS%20Engineering%20%E2%80%A2%20IoT%20Infrastructure&descAlignY=58&descSize=14&descColor=7ecfff&animation=fadeIn)](https://github.com/atul-singh-07)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Systems+Engineer+%2F%2F+Embedded+%2B+IoT+Developer;OS+Builder+%E2%80%94+Creator+of+AtulOS;Hardware+%E2%86%92+Firmware+%E2%86%92+Cloud+%E2%86%92+UI;Building+Real-World+Infrastructure+Systems)](https://github.com/atul-singh-07)
+<svg width="800" height="230" viewBox="0 0 800 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Terminal glow filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <!-- Border glow -->
+    <filter id="borderGlow" x="-5%" y="-5%" width="110%" height="110%">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <!-- Scanline gradient -->
+    <linearGradient id="scanGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00e5ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00e5ff" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#00e5ff" stop-opacity="0"/>
+    </linearGradient>
+    <!-- Glass background gradient -->
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1528"/>
+      <stop offset="100%" stop-color="#060c18"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Terminal window body -->
+  <rect x="2" y="2" width="796" height="226" rx="10" ry="10" fill="url(#bgGrad)" stroke="#00b4d8" stroke-width="1.2" filter="url(#borderGlow)" opacity="0.97"/>
+
+  <!-- Title bar -->
+  <rect x="2" y="2" width="796" height="30" rx="10" ry="10" fill="#0a1a2e"/>
+  <rect x="2" y="22" width="796" height="10" fill="#0a1a2e"/>
+
+  <!-- Title bar dots -->
+  <circle cx="22" cy="17" r="5" fill="#1a3a5c" opacity="0.9"/>
+  <circle cx="40" cy="17" r="5" fill="#1a3a5c" opacity="0.9"/>
+  <circle cx="58" cy="17" r="5" fill="#00b4d8" opacity="0.7"/>
+
+  <!-- Title bar label -->
+  <text x="400" y="21" font-family="'Courier New', Courier, monospace" font-size="11" fill="#4a9ebe" text-anchor="middle" opacity="0.9">AtulOS — Terminal v1.0</text>
+
+  <!-- Divider line under title bar -->
+  <line x1="2" y1="32" x2="798" y2="32" stroke="#00b4d8" stroke-width="0.5" opacity="0.4"/>
+
+  <!-- Boot line 1: [BOOT] -->
+  <g opacity="0">
+    <animateTransform attributeName="transform" type="translate" values="0,0" dur="0.01s" begin="0s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" dur="0.15s" begin="0.3s" fill="freeze"/>
+    <text x="28" y="62" font-family="'Courier New', Courier, monospace" font-size="13.5" fill="#00b4d8" filter="url(#glow)">[BOOT]</text>
+    <text x="100" y="62" font-family="'Courier New', Courier, monospace" font-size="13.5" fill="#7ecfff">Initializing AtulOS Core...</text>
+    <text x="700" y="62" font-family="'Courier New', Courier, monospace" font-size="13.5" fill="#00e5ff" opacity="0.6">0.001s</text>
+  </g>
+
+  <!-- Boot line 2: [LOAD] -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.15s" begin="1.1s" fill="freeze"/>
+    <text x="28" y="88" font-family="'Courier New', Courier, monospace" font-size="13.5" fill="#00b4d8" filter="url(#glow)">[LOAD]</text>
+    <text x="100" y="88" font-family="'Courier New', Courier, monospace" font-size="13.5" fill="#7ecfff">Loading IoT Control Modules...</text>
+    <text x="700" y="88" font-family="'Courier New', Courier, monospace" font-size="13.5" fill="#00e5ff" opacity="0.6">0.038s</text>
+  </g>
+
+  <!-- Boot line 3: [LINK] -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.15s" begin="1.9s" fill="freeze"/>
+    <text x="28" y="114" font-family="'Courier New', Courier, monospace" font-size="13.5" fill="#00b4d8" filter="url(#glow)">[LINK]</text>
+    <text x="100" y="114" font-family="'Courier New', Courier, monospace" font-size="13.5" fill="#7ecfff">Connecting Firebase Cloud Layer...</text>
+    <text x="700" y="114" font-family="'Courier New', Courier, monospace" font-size="13.5" fill="#00e5ff" opacity="0.6">0.112s</text>
+  </g>
+
+  <!-- Boot line 4: [SYNC] -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.15s" begin="2.7s" fill="freeze"/>
+    <text x="28" y="140" font-family="'Courier New', Courier, monospace" font-size="13.5" fill="#00b4d8" filter="url(#glow)">[SYNC]</text>
+    <text x="100" y="140" font-family="'Courier New', Courier, monospace" font-size="13.5" fill="#7ecfff">Mounting ESP32 + Sensor Array...</text>
+    <text x="700" y="140" font-family="'Courier New', Courier, monospace" font-size="13.5" fill="#00e5ff" opacity="0.6">0.204s</text>
+  </g>
+
+  <!-- Boot line 5: [OK] — green-blue highlight -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.2s" begin="3.5s" fill="freeze"/>
+    <text x="28" y="166" font-family="'Courier New', Courier, monospace" font-size="13.5" fill="#00e5ff" filter="url(#glow)" font-weight="bold">[OK]</text>
+    <text x="100" y="166" font-family="'Courier New', Courier, monospace" font-size="13.5" fill="#00e5ff" filter="url(#glow)" font-weight="bold">Smart Infrastructure Online</text>
+    <text x="700" y="166" font-family="'Courier New', Courier, monospace" font-size="13.5" fill="#00e5ff" opacity="0.6">0.391s</text>
+  </g>
+
+  <!-- Prompt line -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.15s" begin="4.1s" fill="freeze"/>
+    <text x="28" y="200" font-family="'Courier New', Courier, monospace" font-size="13.5" fill="#00b4d8">atul@AtulOS:~$</text>
+    <!-- Blinking cursor block -->
+    <rect x="183" y="186" width="9" height="16" fill="#00e5ff" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" dur="1.1s" begin="4.3s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Scanline sweep overlay -->
+  <rect x="3" y="33" width="794" height="45" rx="0" fill="url(#scanGrad)" opacity="1">
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,160;0,0" dur="5s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="opacity" values="0.7;0.4;0.7" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Subtle flicker overlay on entire terminal -->
+  <rect x="3" y="33" width="794" height="194" rx="0" fill="#00e5ff" opacity="0">
+    <animate attributeName="opacity" values="0;0;0;0.015;0;0;0;0.008;0" dur="7s" repeatCount="indefinite"/>
+  </rect>
+</svg>
 
 </div>
 
