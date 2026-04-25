@@ -1,70 +1,56 @@
 <div align="center">
 
-<!-- HEADER MATRIX -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=ATUL&fontSize=90&color=0:0d0d0d,100:0d0d0d&stroke=00ff88&strokeWidth=3&fontColor=00ff88&animation=twinkling&desc=SYSTEMS%20ARCHITECT%20%7C%20EMBEDDED%20%7C%20OS%20DEV%20%7C%20IoT%20ENGINEER&descSize=14&descAlignY=75&descColor=888888" width="100%"/>
+[![AtulOS Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:00b4d8,100:00e5ff&height=200&section=header&text=ATUL%20%2F%2F%20SYSTEMS%20ARCHITECT&fontSize=36&fontColor=00e5ff&fontAlignY=38&desc=Firmware%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20OS%20Engineering%20%E2%80%A2%20IoT%20Infrastructure&descAlignY=58&descSize=14&descColor=7ecfff&animation=fadeIn)](https://github.com/atul-singh-07)
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2800&pause=1200&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%3E+Building+the+future+of+smart+infrastructure...;%3E+AtulOS+%7C+Smart+Parking+%7C+EV+Grid+%7C+IoT+Cloud;%3E+Hardware+meets+Software+meets+Intelligence.)](https://git.io/typing-svg)
-
-<br/>
-
-![](https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=00ff88&label=SYSTEM+UPTIME+VISITORS)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Systems+Engineer+%2F%2F+Embedded+%2B+IoT+Developer;OS+Builder+%E2%80%94+Creator+of+AtulOS;Hardware+%E2%86%92+Firmware+%E2%86%92+Cloud+%E2%86%92+UI;Building+Real-World+Infrastructure+Systems)](https://github.com/atul-singh-07)
 
 </div>
 
 ---
 
 ```diff
-@@  SYSTEM IDENTIFICATION  @@
-
-+ OPERATOR  : Atul
-+ CLASS     : Systems Engineer / Embedded Developer / OS Architect
-+ STACK     : Hardware → Firmware → Cloud → Dashboard
-+ STATUS    : [ ONLINE ] — Building Smart Infrastructure
-- IDLE MODE : DISABLED
++ SYSTEM IDENTIFICATION — AtulOS Terminal v1.0
+──────────────────────────────────────────────────────────────
+  OPERATOR     : Atul Singh
+  HANDLE       : @atul-singh-07
+  ROLE         : Systems Engineer | Embedded Developer | OS Builder
+  STACK DEPTH  : Hardware → Firmware → Cloud → UI
+  ACTIVE BUILD : AtulOS — Custom OS with AI command layer
+  STATUS       : [ ONLINE ] — Mission-critical systems running
+──────────────────────────────────────────────────────────────
 ```
 
 ---
 
 <div align="center">
 
-## ◈ CORE ARCHITECTURE MAP
+## ◈ ARCHITECTURE — CONTROL MAP
 
 </div>
 
-```
+```txt
 ╔══════════════════════════════════════════════════════════════════╗
-║                   ATUL's INFRASTRUCTURE LAYER                    ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║    ┌─────────────────────────────────────────────────────┐       ║
-║    │                   [ AtulOS ]                        │       ║
-║    │     Terminal UI · AI Commands · Focus Mode          │       ║
-║    │         Device Control · System Kernel              │       ║
-║    └────────────────────┬────────────────────────────────┘       ║
-║                         │                                        ║
-║          ┌──────────────┼──────────────┐                         ║
-║          ▼              ▼              ▼                         ║
-║   ┌──────────────┐ ┌──────────┐ ┌─────────────────┐             ║
-║   │ Smart Parking│ │EV Charge │ │   IoT Dashboard  │             ║
-║   │  ESP32+Sensor│ │ Control  │ │  Firebase Sync   │             ║
-║   │  Firebase RT │ │ Monitor  │ │  Live Cloud Push │             ║
-║   │  Live Slots  │ │ Prepaid  │ │  Sensor Network  │             ║
-║   └──────┬───────┘ └────┬─────┘ └────────┬─────────┘             ║
-║          └──────────────┼───────────────┘                        ║
-║                         ▼                                        ║
-║              ┌─────────────────────┐                             ║
-║              │   Firebase Cloud    │                             ║
-║              │ Realtime DB · Auth  │                             ║
-║              │ Hosting · Functions │                             ║
-║              └─────────────────────┘                             ║
-║                         │                                        ║
-║              ┌──────────▼──────────┐                             ║
-║              │   ESP32 · Arduino   │                             ║
-║              │  Sensors · Relays   │                             ║
-║              │  Hardware Layer     │                             ║
-║              └─────────────────────┘                             ║
+║                    ╔═══════════════╗                            ║
+║                    ║    AtulOS     ║  ← CONTROL CORE            ║
+║                    ║  AI Commands  ║                            ║
+║                    ║ Device Control║                            ║
+║                    ╚══════╤════════╝                            ║
+║                           │                                     ║
+║          ┌────────────────┼────────────────┐                    ║
+║          │                │                │                    ║
+║   ┌──────▼──────┐  ┌──────▼──────┐  ┌──────▼──────┐           ║
+║   │   PARKING   │  │     EV      │  │     IoT     │           ║
+║   │   MODULE    │  │  CHARGING   │  │   CLOUD     │           ║
+║   │  ESP32 + FW │  │  CTRL + MON │  │  DASHBOARD  │           ║
+║   └──────┬──────┘  └──────┬──────┘  └──────┬──────┘           ║
+║          │                │                │                    ║
+║          └────────────────┼────────────────┘                    ║
+║                           │                                     ║
+║                    ┌──────▼──────┐                              ║
+║                    │  HARDWARE   │                              ║
+║                    │  LAYER      │                              ║
+║                    │Sensors / MCU│                              ║
+║                    └─────────────┘                              ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -72,88 +58,40 @@
 
 <div align="center">
 
-## ◈ PROJECT MODULES
+## ◈ ACTIVE MODULES
 
 </div>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+| MODULE | STACK | LINK |
+|:---|:---|:---:|
+| `[MOD-01]` **Smart Parking System** — ESP32 + IR sensors, Firebase sync, real-time dashboard | `ESP32` `Firebase` `IoT` `Web` | [**→ LAUNCH**](https://github.com/atul-singh-07/Smart-Parking-Dashboard) |
+| `[MOD-02]` **IoT Cloud Dashboard** — Live sync, device telemetry, data visualization | `Node.js` `Firebase` `HTML/CSS/JS` | [**→ LAUNCH**](https://github.com/atul-singh-07/atul-singh-07.github.io) |
+| `[MOD-03]` **AtulOS** — Terminal UI OS with AI command layer + device control shell | `C` `Linux` `AI Layer` `CLI` | `[ IN BUILD ]` |
+| `[MOD-04]` **EV Charging System** — Control + monitoring + prepaid booking engine | `Embedded` `Cloud` `Control Logic` | `[ IN BUILD ]` |
+
+---
+
+<div align="center">
+
+## ◈ LIVE SYSTEM PREVIEW
+
+> *Smart Parking Dashboard — Real-time occupancy monitoring via ESP32 + Firebase*
+
+[![Smart Parking Dashboard](https://img.shields.io/badge/LIVE_PREVIEW-Smart_Parking_Dashboard-00e5ff?style=for-the-badge&logo=googlecloud&logoColor=black)](https://github.com/atul-singh-07/Smart-Parking-Dashboard)
+
+</div>
 
 ```yaml
-# MODULE_01: SMART PARKING SYSTEM
-status: active
-type: hardware + cloud
-
-features:
-  - Real-time slot detection
-  - ESP32 + Sensor array
-  - Firebase Realtime DB
-  - Live dashboard updates
-  - Hardware-software bridge
-
-stack: [ESP32, Firebase, HTML/CSS/JS]
+# SYSTEM: Smart-Parking-Dashboard
+  hardware_core  : ESP32 + IR Proximity Sensors
+  data_pipeline  : Sensor → Firmware → Firebase RTDB → Web UI
+  features:
+    - Real-time slot occupancy tracking
+    - Firebase-synced live dashboard
+    - Multi-sensor array management
+    - Web visualization layer
+  status         : DEPLOYED
 ```
-
-</td>
-<td width="50%" valign="top">
-
-```yaml
-# MODULE_02: EV CHARGING SYSTEM
-status: in-development
-type: embedded + web
-
-features:
-  - Start/Stop charge control
-  - Battery & charge monitoring
-  - Prepaid time-based booking
-  - Integrated with parking grid
-  - Real-time usage tracking
-
-stack: [ESP32, Firebase, JavaScript]
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-```yaml
-# MODULE_03: AtulOS
-status: building
-type: custom operating system
-
-features:
-  - Terminal-based interface
-  - AI-powered command parser
-  - Device control via commands
-  - Focus mode UI layer
-  - System-level architecture
-
-philosophy: OS as a product, not a tool
-```
-
-</td>
-<td width="50%" valign="top">
-
-```yaml
-# MODULE_04: IoT CLOUD NETWORK
-status: active
-type: embedded + real-time cloud
-
-features:
-  - ESP32 / Arduino nodes
-  - Multi-sensor integration
-  - Firebase Realtime sync
-  - Dashboard visualization
-  - Edge-to-cloud pipeline
-
-stack: [ESP32, Arduino, Firebase]
-```
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -161,16 +99,32 @@ stack: [ESP32, Arduino, Firebase]
 
 ## ◈ TECH STACK
 
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+**Embedded & Hardware**
+
+![C](https://img.shields.io/badge/C-00b4d8?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0077b6?style=for-the-badge&logo=cplusplus&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-00e5ff?style=for-the-badge&logo=espressif&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-023e8a?style=for-the-badge&logo=arduino&logoColor=white)
+![RTOS](https://img.shields.io/badge/FreeRTOS-0096c7?style=for-the-badge&logoColor=white)
+
+**Cloud & Backend**
+
+![Firebase](https://img.shields.io/badge/Firebase-00b4d8?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-0077b6?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-023e8a?style=for-the-badge&logo=python&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-00e5ff?style=for-the-badge&logo=eclipsemosquitto&logoColor=black)
+
+**Systems & OS**
+
+![Linux](https://img.shields.io/badge/Linux-00b4d8?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-0077b6?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-023e8a?style=for-the-badge&logo=git&logoColor=white)
+
+**Frontend & UI**
+
+![HTML5](https://img.shields.io/badge/HTML5-00b4d8?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-0077b6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-023e8a?style=for-the-badge&logo=javascript&logoColor=white)
 
 </div>
 
@@ -180,12 +134,10 @@ stack: [ESP32, Arduino, Firebase]
 
 ## ◈ SYSTEM METRICS
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&ring_color=00ff88"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=c9d1d9"/>
+<img src="https://github-readme-stats.vercel.app/api?username=atul-singh-07&show_icons=true&theme=transparent&title_color=00e5ff&icon_color=00b4d8&text_color=7ecfff&border_color=00b4d8&border_radius=8&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul-singh-07&layout=compact&theme=transparent&title_color=00e5ff&text_color=7ecfff&border_color=00b4d8&border_radius=8&hide_border=false" height="165"/>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=0d0d0d&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=888888&dates=888888&stroke=00ff88" />
+<img src="https://streak-stats.demolab.com?user=atul-singh-07&theme=transparent&border=00b4d8&ring=00e5ff&fire=00b4d8&currStreakLabel=00e5ff&sideLabels=7ecfff&dates=7ecfff&border_radius=8" height="165"/>
 
 </div>
 
@@ -195,7 +147,9 @@ stack: [ESP32, Arduino, Firebase]
 
 ## ◈ CONTRIBUTION GRID
 
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/atul-singh-07/atul-singh-07/output/github-contribution-grid-snake-dark.svg" alt="contribution-snake" />
+
+> *If the snake hasn't rendered yet — [configure the GitHub Action](https://github.com/Platane/snk) in your profile repo.*
 
 </div>
 
@@ -208,51 +162,46 @@ stack: [ESP32, Arduino, Firebase]
 </div>
 
 ```diff
-+  MISSION LOG — 2025
-+  ─────────────────────────────────────────────────────────
-+  [01] Unify Smart Parking + EV Charging into one platform
-+  [02] Ship AtulOS v0.1 — AI terminal + device control core
-+  [03] Build multi-node IoT mesh with edge intelligence
-+  [04] Deploy live dashboard for infrastructure monitoring
--  [BLOCKED] None — systems nominal
++ MISSION LOG — AtulOS Build Cycle
+────────────────────────────────────────────────────────────
++ [ACTIVE]   AtulOS — Terminal-native OS, AI command routing
++ [ACTIVE]   EV Charging System — Prepaid booking + control layer
++ [ACTIVE]   IoT Cloud Infra — Scaling real-time device telemetry
+- [QUEUED]   AtulOS GUI shell — Hardware-accelerated UI layer
+- [QUEUED]   Edge ML — On-device inference for sensor fusion
+────────────────────────────────────────────────────────────
+  DIRECTIVE  : Ship systems that solve physical-world problems.
+               Not demos. Infrastructure.
+────────────────────────────────────────────────────────────
 ```
 
 ---
 
 <div align="center">
 
-## ◈ OPERATING PHILOSOPHY
+## ◈ ENGINEERING PHILOSOPHY
 
 </div>
 
 ```txt
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   "Most developers build apps.                                  │
-│    I build systems that make apps obsolete."                    │
-│                                                                 │
-│    Think in layers.  Design in flows.  Build in steel.         │
-│                                                                 │
-│    Hardware → Firmware → Cloud → Interface → Intelligence       │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+  ┌─────────────────────────────────────────────────────────┐
+  │                                                         │
+  │   "The stack is vertical by design.                     │
+  │    From silicon to cloud — own every layer."            │
+  │                                                         │
+  │   Hardware without software is inert.                   │
+  │   Software without hardware is abstract.                │
+  │   Systems that command both — that's real engineering.  │
+  │                                                         │
+  └─────────────────────────────────────────────────────────┘
 ```
 
 ---
 
 <div align="center">
 
-## ◈ CONNECT TO THE NETWORK
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:00b4d8,100:0a0f1e&height=120&section=footer&text=AtulOS+%2F%2F+All+Systems+Nominal&fontSize=16&fontColor=00e5ff&fontAlignY=65)](https://github.com/atul-singh-07)
 
-[![GitHub](https://img.shields.io/badge/GITHUB-USERNAME-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/USERNAME)
-
-<br/>
-
-```
-> system ready. awaiting next build.
-> █
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0d0d0d,100:00ff88&section=footer" width="100%"/>
+`[ SESSION CLOSED ]` · `[ UPTIME: ALWAYS ]` · `[ SYSTEMS: ONLINE ]`
 
 </div>
