@@ -3,8 +3,10 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Atul+Singh;ECE+Student+%40+Gurugram+University;Embedded+Systems+%7C+IoT+%7C+Robotics;Builder+of+AtulOS+%F0%9F%96%A5%EF%B8%8F)
 
 ![STATUS](https://img.shields.io/badge/STATUS-LIVE-00d9ff?style=for-the-badge)
-![BUILD](https://img.shields.io/badge/BUILD-2025.stable-00d9ff?style=for-the-badge)
+![BUILD](https://img.shields.io/badge/BUILD-STABLE-00d9ff?style=for-the-badge)
 ![AtulAI](https://img.shields.io/badge/AtulAI-ONLINE-00ff88?style=for-the-badge)
+
+[**Live Demo**](https://atul-singh-07.github.io) &nbsp;·&nbsp; [**Smart Parking**](https://atul-singh-07.github.io/Smart-Parking-Dashboard) &nbsp;·&nbsp; [**LinkedIn**](https://linkedin.com/in/atul-singh-o7)
 
 </div>
 
@@ -16,10 +18,10 @@
 NAME         : Atul Singh
 ROLE         : ECE Student · Embedded Systems · IoT Developer
 UNIVERSITY   : Gurugram University — B.Tech ECE
-SEMESTER     : 3rd (Upcoming)
 LOCATION     : Gurugram, India
 STATUS       : Learning & Building
 FLAGSHIP     : AtulOS v2.2 — Browser-Based OS Simulation
+OPEN TO      : Internships · Hackathons · Open-source collabs
 ```
 
 ---
@@ -36,6 +38,16 @@ ROS 2 + Robotics               [■■■░░░░░░░]  30%
 
 ---
 
+## `NOW`
+
+```
+BUILDING   : AtulOS — new modules and AtulAI upgrades
+LEARNING   : ROS 2 · C++ OOP · MQTT at scale
+NEXT       : Take Smart Parking from prototype to a deployable system
+```
+
+---
+
 ## `TECH STACK`
 
 ### ⚙️ Embedded & Hardware
@@ -48,10 +60,15 @@ ROS 2 + Robotics               [■■■░░░░░░░]  30%
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 
+### 🤖 Robotics
+![ROS](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+
 ### 💻 Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🛠️ Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -72,9 +89,12 @@ FEATURES  : AtulAI Engine v2.2 · Voice I/O · Wake Word
             Smart Parking · EV Charging · Auth Terminal
             System Monitor · Friend Profiles · Calculator
 STACK     : HTML · CSS · JavaScript · Firebase · IoT
-BUILD     : v2.2 Stable — 2025
+BUILD     : v2.2 Stable
 ```
 🔗 [Live Demo](https://atul-singh-07.github.io)
+
+<!-- TIP: drop a screenshot or a short GIF here, e.g.
+<img src="assets/atulos-demo.gif" width="700" alt="AtulOS demo"/> -->
 
 ---
 
@@ -88,6 +108,16 @@ HARDWARE  : Arduino + ESP32 + HC-SR04
 CLOUD     : Firebase Realtime Database
 FRONTEND  : Live HTML Dashboard
 ```
+
+```mermaid
+flowchart LR
+    A[HC-SR04 Sensor] --> B[Arduino]
+    B --> C[ESP32]
+    C --> D[(Firebase Realtime DB)]
+    D --> E[Live Dashboard]
+    E --> F[Prepaid Booking]
+```
+
 🔗 [Live Dashboard](https://atul-singh-07.github.io/Smart-Parking-Dashboard) &nbsp;|&nbsp; [GitHub](https://github.com/atul-singh-07/Smart-Parking-Dashboard)
 
 ---
@@ -110,11 +140,23 @@ FRONTEND  : Live HTML Dashboard
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=atul-singh-07&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d9ff&icon_color=00d9ff&border_radius=10)
+<img src="https://raw.githubusercontent.com/atul-singh-07/atul-singh-07/main/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="Stats"/>
+<img src="https://raw.githubusercontent.com/atul-singh-07/atul-singh-07/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Languages"/>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atul-singh-07&layout=compact&theme=tokyonight&hide_border=true&title_color=00d9ff&border_radius=10)
+<img src="https://streak-stats.demolab.com?user=atul-singh-07&theme=tokyonight&hide_border=true&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&border_radius=10" alt="Streak"/>
 
-![Streak](https://streak-stats.demolab.com?user=atul-singh-07&theme=tokyonight&hide_border=true&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&border_radius=10)
+</div>
+
+---
+
+## `CONTRIBUTION SNAKE`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atul-singh-07/atul-singh-07/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/atul-singh-07/atul-singh-07/output/github-snake.svg" />
+</picture>
 
 </div>
 
@@ -135,5 +177,5 @@ FRONTEND  : Live HTML Dashboard
 ---
 
 <div align="center">
-<sub>Built with 🔌 hardware and ☁️ cloud · AtulOS v2.2 · 2025</sub>
+<sub>Built with 🔌 hardware and ☁️ cloud · AtulOS v2.2</sub>
 </div>
